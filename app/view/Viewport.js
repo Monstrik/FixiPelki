@@ -40,7 +40,7 @@
                                          height: 40,
                                          //pack: 'center',
                                          //align: 'left',
-                                         html: '<img  src="resources/img/ico.png" />'
+                                         html: '<img  src="resources/images/toolbar_logo.png" />'
                                      },
                                      //{
                                      //    xtype: 'spacer',
