@@ -1,2 +1,2 @@
 // @tag full-page
-// @require C:\dev\Projects\FixiPelki\app.js
+// @require E:\TempProjects\FixiPelki\app.js
