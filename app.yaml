@@ -1,0 +1,20 @@
+
+# [START app_yaml]
+runtime: nodejs
+env: flex
+
+
+# [START env]
+env_variables:
+
+# [END env]
+
+# [START cloudsql_settings]
+beta_settings:
+ 
+# [END cloudsql_settings]
+
+
+
+# [END app_yaml]
+
